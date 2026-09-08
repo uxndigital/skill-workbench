@@ -1,17 +1,17 @@
 {
   "name": "@uxndigital/skill-workbench",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Development workbench for syncing, linking, inspecting, and publishing local skills for AI agent systems",
   "license": "MIT",
   "type": "module",
   "author": "UXN Digital",
-  "homepage": "https://github.com/uxndigital/uxndigital-skill-workbench#readme",
+  "homepage": "https://github.com/uxndigital/skill-workbench/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uxndigital/uxndigital-skill-workbench.git"
+    "url": "git+https://github.com/uxndigital/skill-workbench/.git"
   },
   "bugs": {
-    "url": "https://github.com/uxndigital/uxndigital-skill-workbench/issues"
+    "url": "https://github.com/uxndigital/skill-workbench/issues"
   },
   "keywords": [
     "cli",
